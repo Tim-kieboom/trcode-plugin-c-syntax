@@ -2,6 +2,7 @@ id = "c-syntax"
 name = "C/C++"
 version = "0.1.0"
 abi = "1.12"
+tags = ["syntax", "c", "c++"]
 # A language and nothing else: no module of its own and no pane. The grammar is the file the
 # installer downloads and checks.
 
